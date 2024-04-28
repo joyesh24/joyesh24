@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://yt3.googleusercontent.com/ytc/AIdro_nzPxZi4pP5E_sn75VYbb6Y0y-uDgop2Iof7AzHVGPa2w=s900-c-k-c0x00ffffff-no-rj” group-title=”Bangla”, Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Amar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
